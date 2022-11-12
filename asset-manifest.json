@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-Modal-app/static/css/main.ab035b53.chunk.css",
+    "main.js": "/React-Modal-app/static/js/main.b1eb7e64.chunk.js",
+    "main.js.map": "/React-Modal-app/static/js/main.b1eb7e64.chunk.js.map",
+    "runtime-main.js": "/React-Modal-app/static/js/runtime-main.8e3160d9.js",
+    "runtime-main.js.map": "/React-Modal-app/static/js/runtime-main.8e3160d9.js.map",
+    "static/js/2.96777646.chunk.js": "/React-Modal-app/static/js/2.96777646.chunk.js",
+    "static/js/2.96777646.chunk.js.map": "/React-Modal-app/static/js/2.96777646.chunk.js.map",
+    "index.html": "/React-Modal-app/index.html",
+    "static/css/main.ab035b53.chunk.css.map": "/React-Modal-app/static/css/main.ab035b53.chunk.css.map",
+    "static/js/2.96777646.chunk.js.LICENSE.txt": "/React-Modal-app/static/js/2.96777646.chunk.js.LICENSE.txt",
+    "static/media/profilepic.726f053d.jpg": "/React-Modal-app/static/media/profilepic.726f053d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e3160d9.js",
+    "static/js/2.96777646.chunk.js",
+    "static/css/main.ab035b53.chunk.css",
+    "static/js/main.b1eb7e64.chunk.js"
+  ]
+}
